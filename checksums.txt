@@ -1,0 +1,2 @@
+dfc9b3d8f58618e6a0bab52d78a41043  ../../drone_yolo.tar
+df7b0825a895bcd9a9a2038cb8fe26b1  ../../drone_yolo_test.tar
